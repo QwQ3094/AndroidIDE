@@ -5,7 +5,6 @@
 <h2 align="center"><b>AndroidIDE</b></h2>
 <p align="center">
   An IDE to develop real, Gradle-based Android applications on Android devices.
-  
 <p><br>
 
 <p align="center">
