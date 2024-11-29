@@ -1,5 +1,6 @@
 name: Build and test
 
+
 on:
   push:
     branches: [ "dev", "main", "indexing", "release/**" ]
